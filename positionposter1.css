@@ -1,0 +1,38 @@
+.container{
+    border: 1px solid white;
+    background-color: rgb(252, 252, 139);
+    width: 500px;
+    height: 570px;
+    position: relative;
+}
+.tieude{
+    color: blue;
+    text-decoration: underline;
+    position: absolute;
+    top: 20px;
+    left: 90px;
+}
+#anh1{
+    width: 300px;
+    height: 350px;
+    position: absolute;
+    top: 99px;
+    left: 110px;
+}
+#anh2{
+    width: 120px;
+    position: absolute;
+    top: 520px;
+    left: 190px;
+}
+.money{
+    font-size: 20px;
+    position: absolute;
+    top:440px ;
+    left: 167px;
+}
+#indo{
+    color: red;
+    font-size: 30px;
+    font-weight: 100;
+}
